@@ -5,7 +5,7 @@
 - Aries of interest: Blockchain, Architecture, Algorithms, Backend
 - Languages: Golang, Rust, TypeScript, Python
 - Technologies:
-  - Blockchain: Tendermint/CometBFT, Cosmos SDK, Hyperledger Indy, CosmWasm
+  - Blockchain: SSI, Tendermint/CometBFT, Cosmos SDK, Hyperledger Indy, CosmWasm
   - Backend: Express
   - Databases: Postgres, MySQL, LevelDB, RocksDB
   - CI/CD: Docker, Github actions, Gitlab, DigitalOcean
